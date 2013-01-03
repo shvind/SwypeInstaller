@@ -60,6 +60,6 @@ public class SwypeInstallerActivity extends Activity {
     
     			
     
-    //для вывода списка бекапов
+    //РґР»СЏ РІС‹РІРѕРґР° СЃРїРёСЃРєР° Р±РµРєР°РїРѕРІ
     //new File(Environment.getExternalStorageDirectory(), "Android/backup/SwypeInstaller").listFiles()
 }
