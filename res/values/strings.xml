@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Swype Installer can backup and restore user dictionary (need root)</string>
+    <string name="app_name">Swype Installer</string>
+    <string name="Button1">Backup User Dictionary</string>
+    <string name="Button2">Restore User Dictionary</string>
+    <string name="SDMount">Need Sdcard Mounted</string>
+    <string name="BackupNote1">For restore you need:</string>
+    <string-array name="BackupNote"></string-array>
+    <string name="BackupNote2">First run swype and type something</string>
+    <string name="BackupNote3">Then stop swype process and restore</string>
+    <string name="Backup">Backup successfully completed</string>
+    <string name="Restore">Restore successfully completed</string>
+    
+</resources>

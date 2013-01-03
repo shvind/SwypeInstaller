@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Можно сохранять пользовательский словарь при переустановке swype (нужен root)</string>
+    <string name="app_name">Swype Installer</string>
+    <string name="Button1">Сохранить словарь</string>
+    <string name="Button2">Восстановить словарь</string>
+    <string name="SDMount">Необходима флешка</string>
+    <string name="BackupNote1">Для восстановления необходимо:</string>
+    <string-array name="BackupNote"></string-array>
+    <string name="BackupNote2">Запустить swype и набрать что-нибудь</string>
+    <string name="BackupNote3">Затем остановить процесс swype и нажать восстановление</string>
+    <string name="Backup">Резервная копия создана</string>
+    <string name="Restore">Резервная копия восстановлена</string>
+
+</resources>
